@@ -1745,13 +1745,16 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .s-home .overlay {
+    opacity: .2;
+    background-color: #111111;
+}
+
+#particles-js, .s-home .overlay {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    opacity: .5;
-    background-color: #111111;
 }
 
 .no-js .s-home {

@@ -1,0 +1,22 @@
+{
+  "name": "hola",
+  "version": "1.0.0",
+  "description": "hey, it's me, Arifin",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arifinn1/hola.git"
+  },
+  "author": "Arifin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arifinn1/hola/issues"
+  },
+  "homepage": "https://github.com/arifinn1/hola#readme",
+  "dependencies": {
+    "sass": "^1.3.2"
+  }
+}
